@@ -1,0 +1,11 @@
+.classpath
+.project
+<<<<<<< HEAD
+.settings
+target-eclipse/
+target/
+=======
+.settings/
+target/
+target-eclipse/
+>>>>>>> 2847f8d098d999f260c52cbb657f1407204b1548
